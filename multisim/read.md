@@ -1,1 +1,0 @@
-# NI-multisim-circuit-designs
